@@ -3,9 +3,9 @@ def display_board
   spots = Array.new(9, " ")
   dashed_line = "-----------"
   
-  puts "#{spots[0]}|#{spots[1]}|#{spots[2]}"
+  puts "#{spots[0]} | #{spots[1]} | #{spots[2]}"
   puts dashed_line
-  puts "#{spots[3]}|#{spots[4]}|#{spots[5]}"
+  puts "#{spots[3]} | #{spots[4]} | #{spots[5]}"
   puts dashed_line
   puts "#{spots[6]}|#{spots[7]}|#{spots[8]}"
 
