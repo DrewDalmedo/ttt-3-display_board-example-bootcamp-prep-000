@@ -3,5 +3,6 @@ def display_board
   spots = Array.new(9, " ")
   
   puts "#{spots[0]} | #{spots[1]} | #{spots[2]}"
+  puts ""
 
 end
