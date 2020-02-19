@@ -7,6 +7,6 @@ def display_board
   puts dashed_line
   puts "#{spots[3]} | #{spots[4]} | #{spots[5]}"
   puts dashed_line
-  puts "#{spots[6]}|#{spots[7]}|#{spots[8]}"
+  puts "#{spots[6]} | #{spots[7]} | #{spots[8]}"
 
 end
