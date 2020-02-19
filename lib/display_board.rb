@@ -10,3 +10,5 @@ def display_board
   puts "#{spots[6]} | #{spots[7]} | #{spots[8]}"
 
 end
+
+display_board
